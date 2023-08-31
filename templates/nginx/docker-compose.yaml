@@ -1,0 +1,20 @@
+version: '3.8'
+services:
+  web:
+      image: nginx:latest
+      ports:
+        - "80:80"
+        - "443:443"
+        - "8025:8025"
+      volumes:
+        - ../../nginx/config:/etc/nginx/conf.d
+        - ./src:/usr/share/nginx/html
+        - ./templates:/etc/nginx/templates
+        - ../../nginx/cert:/etc/ssl/nginx
+      networks:
+        - nginx
+
+networks:
+  nginx:
+    name: nginx-net
+    external: true

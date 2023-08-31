@@ -1,0 +1,122 @@
+#!/bin/bash
+DIR="$(cd "$(dirname "$0")" && pwd)"
+
+if [ ! -z "$1" ]; then
+  if [ "$1" == create ]; then
+    if [ ! -z "$2" ]; then
+      if [ -d "$DIR/templates/$2" ]; then
+        if [ ! -z "$3" ]; then
+          if [ ! -d "$DIR/deployments/$3" ] && [ ! -f "$DIR/nginx/config/$3.conf" ]; then
+            cp -R "$DIR/templates/$2" "$DIR/deployments/$3"
+            wait
+            docker compose -f $DIR/deployments/$3/docker-compose.yml up -d
+            echo "odoo deployment startet"
+            mkcert --cert-file "$DIR/nginx/cert/$3.pem" --key-file "$DIR/nginx/cert/$3-key.pem" $3 $3.odoo
+            echo "Cert installed!"
+            touch "$DIR/nginx/config/$3.conf"
+            cat > "$DIR/nginx/config/$3.conf" << EOF
+upstream $3_odoo {
+ server $3-odoo-1:8069;
+}
+
+upstream $3_mailhog {
+ server $3-mailhog-1:8025;
+}
+
+server {
+    listen 80;
+    server_name $3 $3.odoo;
+    return 301 https://$3.odoo$request_uri;
+}
+
+server {
+    listen 443 ssl;
+    server_name $3 $3.odoo;
+    proxy_read_timeout 720s;
+    proxy_connect_timeout 720s;
+    proxy_send_timeout 720s;
+    # SSL parameters
+    ssl_certificate /etc/ssl/nginx/$3.pem;
+    ssl_certificate_key /etc/ssl/nginx/$3-key.pem;
+
+    access_log /var/log/nginx/odoo.access.log;
+    error_log /var/log/nginx/odoo.error.log;
+
+    # Redirect requests to odoo backend server
+    location / {
+      # Add Headers for odoo proxy mode
+      proxy_set_header X-Forwarded-Host \$host;
+      proxy_set_header X-Forwarded-For \$proxy_add_x_forwarded_for;
+      proxy_set_header X-Forwarded-Proto \$scheme;
+      proxy_set_header X-Real-IP \$remote_addr;
+      proxy_redirect off;
+      proxy_pass http://$3_odoo;
+    }
+}
+
+server {
+    listen 8025;
+    server_name $3 $3.odoo;
+
+    location / {
+        proxy_redirect off;
+        proxy_pass http://$3_mailhog;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade \$http_upgrade;
+        proxy_set_header Connection "upgrade";
+        proxy_set_header Host \$host;
+    }
+
+}
+EOF
+              docker restart nginx-web-1
+              echo "NGINX restarted!"
+            else
+              echo "Deployment by this name already exists"
+            fi
+	  else
+            echo "Name for new deployment missing"
+          fi
+	else
+	  echo "$2: template doesn't exist"
+	fi
+      else
+        echo "template name missing"
+      fi
+  elif [ "$1" == remove ]; then
+    if [ ! -z "$2" ]; then
+      if [ -d "$DIR/deployments/$2" ]; then
+	docker compose -f $DIR/deployments/$2/docker-compose.yml down
+        rm -rf "$DIR/deployments/$2"
+	echo "Deployment directory removed"
+      else
+	echo "Deployment directory does not exist - not removed"
+      fi
+      if [ -f "$DIR/nginx/config/$2.conf" ]; then
+	rm "$DIR/nginx/config/$2.conf"
+	echo "NGINX entry removed"
+      else
+	echo "nginx config is not a file or doesn't exist - not removed"
+      fi
+      if [ -f "$DIR/nginx/cert/$2.pem" ] &&  [ -f "$DIR/nginx/cert/$2-key.pem" ]; then
+        rm "$DIR/nginx/cert/$2.pem"
+	rm "$DIR/nginx/cert/$2-key.pem"
+        echo "Certificates removed"
+      else
+        echo "Certificates doen't exist - not removed"
+      fi
+    else
+      echo "Name of deployment is missing"
+    fi 
+  else
+    echo "unknown command: use create or remove"
+    echo "deploy create TEMPLATE NAME"
+    echo "or"
+    echo "deploy remove NAME"
+  fi
+else
+  echo "command missing: use"
+  echo "deploy create TEMPLATE NAME"
+  echo "or"
+  echo "deploy remove NAME"
+fi
