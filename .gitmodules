@@ -1,0 +1,1251 @@
+[submodule "static/odoo15/enterprise"]
+	path = static/odoo15/enterprise
+	url = https://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@github.com/odoo/enterprise.git
+[submodule "static/odoo15/oca-addons/management-system"]
+	path = static/odoo15/oca-addons/management-system
+	url = https://github.com/OCA/management-system.git
+[submodule "static/odoo15/oca-addons/vertical-isp"]
+	path = static/odoo15/oca-addons/vertical-isp
+	url = https://github.com/OCA/vertical-isp.git
+[submodule "static/odoo15/oca-addons/vertical-hotel"]
+	path = static/odoo15/oca-addons/vertical-hotel
+	url = https://github.com/OCA/vertical-hotel.git
+[submodule "static/odoo15/oca-addons/ddmrp"]
+	path = static/odoo15/oca-addons/ddmrp
+	url = https://github.com/OCA/ddmrp.git
+[submodule "static/odoo15/oca-addons/margin-analysis"]
+	path = static/odoo15/oca-addons/margin-analysis
+	url = https://github.com/OCA/margin-analysis.git
+[submodule "static/odoo15/oca-addons/account-invoicing"]
+	path = static/odoo15/oca-addons/account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+[submodule "static/odoo15/oca-addons/rma"]
+	path = static/odoo15/oca-addons/rma
+	url = https://github.com/OCA/rma.git
+[submodule "static/odoo15/oca-addons/account-payment"]
+	path = static/odoo15/oca-addons/account-payment
+	url = https://github.com/OCA/account-payment.git
+[submodule "static/odoo15/oca-addons/storage"]
+	path = static/odoo15/oca-addons/storage
+	url = https://github.com/OCA/storage.git
+[submodule "static/odoo15/oca-addons/vertical-realestate"]
+	path = static/odoo15/oca-addons/vertical-realestate
+	url = https://github.com/OCA/vertical-realestate.git
+[submodule "static/odoo15/oca-addons/stock-logistics-transport"]
+	path = static/odoo15/oca-addons/stock-logistics-transport
+	url = https://github.com/OCA/stock-logistics-transport.git
+[submodule "static/odoo15/oca-addons/payroll"]
+	path = static/odoo15/oca-addons/payroll
+	url = https://github.com/OCA/payroll.git
+[submodule "static/odoo15/oca-addons/event"]
+	path = static/odoo15/oca-addons/event
+	url = https://github.com/OCA/event.git
+[submodule "static/odoo15/oca-addons/hr-holidays"]
+	path = static/odoo15/oca-addons/hr-holidays
+	url = https://github.com/OCA/hr-holidays.git
+[submodule "static/odoo15/oca-addons/sale-workflow"]
+	path = static/odoo15/oca-addons/sale-workflow
+	url = https://github.com/OCA/sale-workflow.git
+[submodule "static/odoo15/oca-addons/fleet"]
+	path = static/odoo15/oca-addons/fleet
+	url = https://github.com/OCA/fleet.git
+[submodule "static/odoo15/oca-addons/data-protection"]
+	path = static/odoo15/oca-addons/data-protection
+	url = https://github.com/OCA/data-protection.git
+[submodule "static/odoo15/oca-addons/reporting-engine"]
+	path = static/odoo15/oca-addons/reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+[submodule "static/odoo15/oca-addons/pms"]
+	path = static/odoo15/oca-addons/pms
+	url = https://github.com/OCA/pms.git
+[submodule "static/odoo15/oca-addons/account-analytic"]
+	path = static/odoo15/oca-addons/account-analytic
+	url = https://github.com/OCA/account-analytic.git
+[submodule "static/odoo15/oca-addons/search-engine"]
+	path = static/odoo15/oca-addons/search-engine
+	url = https://github.com/OCA/search-engine.git
+[submodule "static/odoo15/oca-addons/product-variant"]
+	path = static/odoo15/oca-addons/product-variant
+	url = https://github.com/OCA/product-variant.git
+[submodule "static/odoo15/oca-addons/calendar"]
+	path = static/odoo15/oca-addons/calendar
+	url = https://github.com/OCA/calendar.git
+[submodule "static/odoo15/oca-addons/purchase-reporting"]
+	path = static/odoo15/oca-addons/purchase-reporting
+	url = https://github.com/OCA/purchase-reporting.git
+[submodule "static/odoo15/oca-addons/server-brand"]
+	path = static/odoo15/oca-addons/server-brand
+	url = https://github.com/OCA/server-brand.git
+[submodule "static/odoo15/oca-addons/vertical-edition"]
+	path = static/odoo15/oca-addons/vertical-edition
+	url = https://github.com/OCA/vertical-edition.git
+[submodule "static/odoo15/oca-addons/vertical-ngo"]
+	path = static/odoo15/oca-addons/vertical-ngo
+	url = https://github.com/OCA/vertical-ngo.git
+[submodule "static/odoo15/oca-addons/donation"]
+	path = static/odoo15/oca-addons/donation
+	url = https://github.com/OCA/donation.git
+[submodule "static/odoo15/oca-addons/field-service"]
+	path = static/odoo15/oca-addons/field-service
+	url = https://github.com/OCA/field-service.git
+[submodule "static/odoo15/oca-addons/server-auth"]
+	path = static/odoo15/oca-addons/server-auth
+	url = https://github.com/OCA/server-auth.git
+[submodule "static/odoo15/oca-addons/hr"]
+	path = static/odoo15/oca-addons/hr
+	url = https://github.com/OCA/hr.git
+[submodule "static/odoo15/oca-addons/commission"]
+	path = static/odoo15/oca-addons/commission
+	url = https://github.com/OCA/commission.git
+[submodule "static/odoo15/oca-addons/department"]
+	path = static/odoo15/oca-addons/department
+	url = https://github.com/OCA/department.git
+[submodule "static/odoo15/oca-addons/account-financial-reporting"]
+	path = static/odoo15/oca-addons/account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting.git
+[submodule "static/odoo15/oca-addons/crm"]
+	path = static/odoo15/oca-addons/crm
+	url = https://github.com/OCA/crm.git
+[submodule "static/odoo15/oca-addons/sale-promotion"]
+	path = static/odoo15/oca-addons/sale-promotion
+	url = https://github.com/OCA/sale-promotion.git
+[submodule "static/odoo15/oca-addons/web"]
+	path = static/odoo15/oca-addons/web
+	url = https://github.com/OCA/web.git
+[submodule "static/odoo15/oca-addons/dms"]
+	path = static/odoo15/oca-addons/dms
+	url = https://github.com/OCA/dms.git
+[submodule "static/odoo15/oca-addons/iot"]
+	path = static/odoo15/oca-addons/iot
+	url = https://github.com/OCA/iot.git
+[submodule "static/odoo15/oca-addons/vertical-abbey"]
+	path = static/odoo15/oca-addons/vertical-abbey
+	url = https://github.com/OCA/vertical-abbey.git
+[submodule "static/odoo15/oca-addons/project-agile"]
+	path = static/odoo15/oca-addons/project-agile
+	url = https://github.com/OCA/project-agile.git
+[submodule "static/odoo15/oca-addons/report-print-send"]
+	path = static/odoo15/oca-addons/report-print-send
+	url = https://github.com/OCA/report-print-send.git
+[submodule "static/odoo15/oca-addons/manufacture"]
+	path = static/odoo15/oca-addons/manufacture
+	url = https://github.com/OCA/manufacture.git
+[submodule "static/odoo15/oca-addons/hr-expense"]
+	path = static/odoo15/oca-addons/hr-expense
+	url = https://github.com/OCA/hr-expense.git
+[submodule "static/odoo15/oca-addons/maintenance"]
+	path = static/odoo15/oca-addons/maintenance
+	url = https://github.com/OCA/maintenance.git
+[submodule "static/odoo15/oca-addons/e-commerce"]
+	path = static/odoo15/oca-addons/e-commerce
+	url = https://github.com/OCA/e-commerce.git
+[submodule "static/odoo15/oca-addons/pos"]
+	path = static/odoo15/oca-addons/pos
+	url = https://github.com/OCA/pos.git
+[submodule "static/odoo15/oca-addons/product-configurator"]
+	path = static/odoo15/oca-addons/product-configurator
+	url = https://github.com/OCA/product-configurator.git
+[submodule "static/odoo15/oca-addons/survey"]
+	path = static/odoo15/oca-addons/survey
+	url = https://github.com/OCA/survey.git
+[submodule "static/odoo15/oca-addons/sale-financial"]
+	path = static/odoo15/oca-addons/sale-financial
+	url = https://github.com/OCA/sale-financial.git
+[submodule "static/odoo15/oca-addons/project-reporting"]
+	path = static/odoo15/oca-addons/project-reporting
+	url = https://github.com/OCA/project-reporting.git
+[submodule "static/odoo15/oca-addons/bank-statement-import"]
+	path = static/odoo15/oca-addons/bank-statement-import
+	url = https://github.com/OCA/bank-statement-import.git
+[submodule "static/odoo15/oca-addons/stock-logistics-barcode"]
+	path = static/odoo15/oca-addons/stock-logistics-barcode
+	url = https://github.com/OCA/stock-logistics-barcode.git
+[submodule "static/odoo15/oca-addons/hr-attendance"]
+	path = static/odoo15/oca-addons/hr-attendance
+	url = https://github.com/OCA/hr-attendance.git
+[submodule "static/odoo15/oca-addons/social"]
+	path = static/odoo15/oca-addons/social
+	url = https://github.com/OCA/social.git
+[submodule "static/odoo15/oca-addons/partner-contact"]
+	path = static/odoo15/oca-addons/partner-contact
+	url = https://github.com/OCA/partner-contact.git
+[submodule "static/odoo15/oca-addons/server-backend"]
+	path = static/odoo15/oca-addons/server-backend
+	url = https://github.com/OCA/server-backend.git
+[submodule "static/odoo15/oca-addons/brand"]
+	path = static/odoo15/oca-addons/brand
+	url = https://github.com/OCA/brand.git
+[submodule "static/odoo15/oca-addons/sale-reporting"]
+	path = static/odoo15/oca-addons/sale-reporting
+	url = https://github.com/OCA/sale-reporting.git
+[submodule "static/odoo15/oca-addons/delivery-carrier"]
+	path = static/odoo15/oca-addons/delivery-carrier
+	url = https://github.com/OCA/delivery-carrier.git
+[submodule "static/odoo15/oca-addons/stock-logistics-workflow"]
+	path = static/odoo15/oca-addons/stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow.git
+[submodule "static/odoo15/oca-addons/vertical-association"]
+	path = static/odoo15/oca-addons/vertical-association
+	url = https://github.com/OCA/vertical-association.git
+[submodule "static/odoo15/oca-addons/contract"]
+	path = static/odoo15/oca-addons/contract
+	url = https://github.com/OCA/contract.git
+[submodule "static/odoo15/oca-addons/account-reconcile"]
+	path = static/odoo15/oca-addons/account-reconcile
+	url = https://github.com/OCA/account-reconcile.git
+[submodule "static/odoo15/oca-addons/vertical-construction"]
+	path = static/odoo15/oca-addons/vertical-construction
+	url = https://github.com/OCA/vertical-construction.git
+[submodule "static/odoo15/oca-addons/account-fiscal-rule"]
+	path = static/odoo15/oca-addons/account-fiscal-rule
+	url = https://github.com/OCA/account-fiscal-rule.git
+[submodule "static/odoo15/oca-addons/intrastat-extrastat"]
+	path = static/odoo15/oca-addons/intrastat-extrastat
+	url = https://github.com/OCA/intrastat-extrastat.git
+[submodule "static/odoo15/oca-addons/account-invoice-reporting"]
+	path = static/odoo15/oca-addons/account-invoice-reporting
+	url = https://github.com/OCA/account-invoice-reporting.git
+[submodule "static/odoo15/oca-addons/wms"]
+	path = static/odoo15/oca-addons/wms
+	url = https://github.com/OCA/wms.git
+[submodule "static/odoo15/oca-addons/stock-logistics-warehouse"]
+	path = static/odoo15/oca-addons/stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse.git
+[submodule "static/odoo15/oca-addons/mis-builder-contrib"]
+	path = static/odoo15/oca-addons/mis-builder-contrib
+	url = https://github.com/OCA/mis-builder-contrib.git
+[submodule "static/odoo15/oca-addons/mis-builder"]
+	path = static/odoo15/oca-addons/mis-builder
+	url = https://github.com/OCA/mis-builder.git
+[submodule "static/odoo15/oca-addons/knowledge"]
+	path = static/odoo15/oca-addons/knowledge
+	url = https://github.com/OCA/knowledge.git
+[submodule "static/odoo15/oca-addons/stock-logistics-reporting"]
+	path = static/odoo15/oca-addons/stock-logistics-reporting
+	url = https://github.com/OCA/stock-logistics-reporting.git
+[submodule "static/odoo15/oca-addons/vertical-medical"]
+	path = static/odoo15/oca-addons/vertical-medical
+	url = https://github.com/OCA/vertical-medical.git
+[submodule "static/odoo15/oca-addons/project"]
+	path = static/odoo15/oca-addons/project
+	url = https://github.com/OCA/project.git
+[submodule "static/odoo15/oca-addons/purchase-workflow"]
+	path = static/odoo15/oca-addons/purchase-workflow
+	url = https://github.com/OCA/purchase-workflow.git
+[submodule "static/odoo15/oca-addons/vertical-agriculture"]
+	path = static/odoo15/oca-addons/vertical-agriculture
+	url = https://github.com/OCA/vertical-agriculture.git
+[submodule "static/odoo15/oca-addons/vertical-travel"]
+	path = static/odoo15/oca-addons/vertical-travel
+	url = https://github.com/OCA/vertical-travel.git
+[submodule "static/odoo15/oca-addons/multi-company"]
+	path = static/odoo15/oca-addons/multi-company
+	url = https://github.com/OCA/multi-company.git
+[submodule "static/odoo15/oca-addons/product-attribute"]
+	path = static/odoo15/oca-addons/product-attribute
+	url = https://github.com/OCA/product-attribute.git
+[submodule "static/odoo15/oca-addons/account-closing"]
+	path = static/odoo15/oca-addons/account-closing
+	url = https://github.com/OCA/account-closing.git
+[submodule "static/odoo15/oca-addons/website"]
+	path = static/odoo15/oca-addons/website
+	url = https://github.com/OCA/website.git
+[submodule "static/odoo15/oca-addons/server-env"]
+	path = static/odoo15/oca-addons/server-env
+	url = https://github.com/OCA/server-env.git
+[submodule "static/odoo15/oca-addons/website-cms"]
+	path = static/odoo15/oca-addons/website-cms
+	url = https://github.com/OCA/website-cms.git
+[submodule "static/odoo15/oca-addons/product-pack"]
+	path = static/odoo15/oca-addons/product-pack
+	url = https://github.com/OCA/product-pack.git
+[submodule "static/odoo15/oca-addons/bank-payment"]
+	path = static/odoo15/oca-addons/bank-payment
+	url = https://github.com/OCA/bank-payment.git
+[submodule "static/odoo15/oca-addons/helpdesk"]
+	path = static/odoo15/oca-addons/helpdesk
+	url = https://github.com/OCA/helpdesk.git
+[submodule "static/odoo15/oca-addons/connector-woocommerce"]
+	path = static/odoo15/oca-addons/connector-woocommerce
+	url = https://github.com/OCA/connector-woocommerce.git
+[submodule "static/odoo15/oca-addons/stock-logistics-tracking"]
+	path = static/odoo15/oca-addons/stock-logistics-tracking
+	url = https://github.com/OCA/stock-logistics-tracking.git
+[submodule "static/odoo15/oca-addons/operating-unit"]
+	path = static/odoo15/oca-addons/operating-unit
+	url = https://github.com/OCA/operating-unit.git
+[submodule "static/odoo15/oca-addons/website-themes"]
+	path = static/odoo15/oca-addons/website-themes
+	url = https://github.com/OCA/website-themes.git
+[submodule "static/odoo15/oca-addons/server-tools"]
+	path = static/odoo15/oca-addons/server-tools
+	url = https://github.com/OCA/server-tools.git
+[submodule "static/odoo15/oca-addons/vertical-community"]
+	path = static/odoo15/oca-addons/vertical-community
+	url = https://github.com/OCA/vertical-community.git
+[submodule "static/odoo15/oca-addons/vertical-education"]
+	path = static/odoo15/oca-addons/vertical-education
+	url = https://github.com/OCA/vertical-education.git
+[submodule "static/odoo15/oca-addons/product-kitting"]
+	path = static/odoo15/oca-addons/product-kitting
+	url = https://github.com/OCA/product-kitting.git
+[submodule "static/odoo15/oca-addons/account-consolidation"]
+	path = static/odoo15/oca-addons/account-consolidation
+	url = https://github.com/OCA/account-consolidation.git
+[submodule "static/odoo15/oca-addons/vertical-rental"]
+	path = static/odoo15/oca-addons/vertical-rental
+	url = https://github.com/OCA/vertical-rental.git
+[submodule "static/odoo15/oca-addons/l10n-germany"]
+	path = static/odoo15/oca-addons/l10n-germany
+	url = https://github.com/OCA/l10n-germany.git
+[submodule "static/odoo15/oca-addons/server-ux"]
+	path = static/odoo15/oca-addons/server-ux
+	url = https://github.com/OCA/server-ux.git
+[submodule "static/odoo15/oca-addons/credit-control"]
+	path = static/odoo15/oca-addons/credit-control
+	url = https://github.com/OCA/credit-control.git
+[submodule "static/odoo15/oca-addons/geospatial"]
+	path = static/odoo15/oca-addons/geospatial
+	url = https://github.com/OCA/geospatial.git
+[submodule "static/odoo15/oca-addons/manufacture-reporting"]
+	path = static/odoo15/oca-addons/manufacture-reporting
+	url = https://github.com/OCA/manufacture-reporting.git
+[submodule "static/odoo15/oca-addons/odoo-pim"]
+	path = static/odoo15/oca-addons/odoo-pim
+	url = https://github.com/OCA/odoo-pim.git
+[submodule "static/odoo15/oca-addons/currency"]
+	path = static/odoo15/oca-addons/currency
+	url = https://github.com/OCA/currency.git
+[submodule "static/odoo15/oca-addons/account-budgeting"]
+	path = static/odoo15/oca-addons/account-budgeting
+	url = https://github.com/OCA/account-budgeting.git
+[submodule "static/odoo15/oca-addons/account-financial-tools"]
+	path = static/odoo15/oca-addons/account-financial-tools
+	url = https://github.com/OCA/account-financial-tools.git
+[submodule "static/odoo15/oca-addons/program"]
+	path = static/odoo15/oca-addons/program
+	url = https://github.com/OCA/program.git
+[submodule "static/odoo15/oca-addons/timesheet"]
+	path = static/odoo15/oca-addons/timesheet
+	url = https://github.com/OCA/timesheet.git
+[submodule "static/odoo15/oca-addons/business-requirement"]
+	path = static/odoo15/oca-addons/business-requirement
+	url = https://github.com/OCA/business-requirement.git
+[submodule "static/odoo16/3rd-party"]
+	path = static/odoo16/3rd-party
+	url = git@github.com:ife-gmbh/3rd-party.git
+[submodule "static/odoo16/oca-addons/management-system"]
+	path = static/odoo16/oca-addons/management-system
+	url = https://github.com/OCA/management-system.git
+[submodule "static/odoo16/oca-addons/vertical-isp"]
+	path = static/odoo16/oca-addons/vertical-isp
+	url = https://github.com/OCA/vertical-isp.git
+[submodule "static/odoo16/oca-addons/l10n-luxemburg"]
+	path = static/odoo16/oca-addons/l10n-luxemburg
+	url = https://github.com/OCA/l10n-luxemburg.git
+[submodule "static/odoo16/oca-addons/vertical-hotel"]
+	path = static/odoo16/oca-addons/vertical-hotel
+	url = https://github.com/OCA/vertical-hotel.git
+[submodule "static/odoo16/oca-addons/l10n-vietnam"]
+	path = static/odoo16/oca-addons/l10n-vietnam
+	url = https://github.com/OCA/l10n-vietnam.git
+[submodule "static/odoo16/oca-addons/web-api"]
+	path = static/odoo16/oca-addons/web-api
+	url = https://github.com/OCA/web-api.git
+[submodule "static/odoo16/oca-addons/connector-lengow"]
+	path = static/odoo16/oca-addons/connector-lengow
+	url = https://github.com/OCA/connector-lengow.git
+[submodule "static/odoo16/oca-addons/l10n-uruguay"]
+	path = static/odoo16/oca-addons/l10n-uruguay
+	url = https://github.com/OCA/l10n-uruguay.git
+[submodule "static/odoo16/oca-addons/ddmrp"]
+	path = static/odoo16/oca-addons/ddmrp
+	url = https://github.com/OCA/ddmrp.git
+[submodule "static/odoo16/oca-addons/l10n-belarus"]
+	path = static/odoo16/oca-addons/l10n-belarus
+	url = https://github.com/OCA/l10n-belarus.git
+[submodule "static/odoo16/oca-addons/connector-odoo2odoo"]
+	path = static/odoo16/oca-addons/connector-odoo2odoo
+	url = https://github.com/OCA/connector-odoo2odoo.git
+[submodule "static/odoo16/oca-addons/margin-analysis"]
+	path = static/odoo16/oca-addons/margin-analysis
+	url = https://github.com/OCA/margin-analysis.git
+[submodule "static/odoo16/oca-addons/webkit-tools"]
+	path = static/odoo16/oca-addons/webkit-tools
+	url = https://github.com/OCA/webkit-tools.git
+[submodule "static/odoo16/oca-addons/account-invoicing"]
+	path = static/odoo16/oca-addons/account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+[submodule "static/odoo16/oca-addons/rma"]
+	path = static/odoo16/oca-addons/rma
+	url = https://github.com/OCA/rma.git
+[submodule "static/odoo16/oca-addons/connector-accountedge"]
+	path = static/odoo16/oca-addons/connector-accountedge
+	url = https://github.com/OCA/connector-accountedge.git
+[submodule "static/odoo16/oca-addons/account-payment"]
+	path = static/odoo16/oca-addons/account-payment
+	url = https://github.com/OCA/account-payment.git
+[submodule "static/odoo16/oca-addons/storage"]
+	path = static/odoo16/oca-addons/storage
+	url = https://github.com/OCA/storage.git
+[submodule "static/odoo16/oca-addons/connector-prestashop"]
+	path = static/odoo16/oca-addons/connector-prestashop
+	url = https://github.com/OCA/connector-prestashop.git
+[submodule "static/odoo16/oca-addons/vertical-realestate"]
+	path = static/odoo16/oca-addons/vertical-realestate
+	url = https://github.com/OCA/vertical-realestate.git
+[submodule "static/odoo16/oca-addons/l10n-mexico"]
+	path = static/odoo16/oca-addons/l10n-mexico
+	url = https://github.com/OCA/l10n-mexico.git
+[submodule "static/odoo16/oca-addons/l10n-costa-rica"]
+	path = static/odoo16/oca-addons/l10n-costa-rica
+	url = https://github.com/OCA/l10n-costa-rica.git
+[submodule "static/odoo16/oca-addons/stock-logistics-transport"]
+	path = static/odoo16/oca-addons/stock-logistics-transport
+	url = https://github.com/OCA/stock-logistics-transport.git
+[submodule "static/odoo16/oca-addons/stock-logistics-request"]
+	path = static/odoo16/oca-addons/stock-logistics-request
+	url = https://github.com/OCA/stock-logistics-request.git
+[submodule "static/odoo16/oca-addons/l10n-portugal"]
+	path = static/odoo16/oca-addons/l10n-portugal
+	url = https://github.com/OCA/l10n-portugal.git
+[submodule "static/odoo16/oca-addons/l10n-france"]
+	path = static/odoo16/oca-addons/l10n-france
+	url = https://github.com/OCA/l10n-france.git
+[submodule "static/odoo16/oca-addons/payroll"]
+	path = static/odoo16/oca-addons/payroll
+	url = https://github.com/OCA/payroll.git
+[submodule "static/odoo16/oca-addons/event"]
+	path = static/odoo16/oca-addons/event
+	url = https://github.com/OCA/event.git
+[submodule "static/odoo16/oca-addons/hr-holidays"]
+	path = static/odoo16/oca-addons/hr-holidays
+	url = https://github.com/OCA/hr-holidays.git
+[submodule "static/odoo16/oca-addons/sale-workflow"]
+	path = static/odoo16/oca-addons/sale-workflow
+	url = https://github.com/OCA/sale-workflow.git
+[submodule "static/odoo16/oca-addons/fleet"]
+	path = static/odoo16/oca-addons/fleet
+	url = https://github.com/OCA/fleet.git
+[submodule "static/odoo16/oca-addons/data-protection"]
+	path = static/odoo16/oca-addons/data-protection
+	url = https://github.com/OCA/data-protection.git
+[submodule "static/odoo16/oca-addons/reporting-engine"]
+	path = static/odoo16/oca-addons/reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+[submodule "static/odoo16/oca-addons/pms"]
+	path = static/odoo16/oca-addons/pms
+	url = https://github.com/OCA/pms.git
+[submodule "static/odoo16/oca-addons/edi"]
+	path = static/odoo16/oca-addons/edi
+	url = https://github.com/OCA/edi.git
+[submodule "static/odoo16/oca-addons/account-analytic"]
+	path = static/odoo16/oca-addons/account-analytic
+	url = https://github.com/OCA/account-analytic.git
+[submodule "static/odoo16/oca-addons/l10n-canada"]
+	path = static/odoo16/oca-addons/l10n-canada
+	url = https://github.com/OCA/l10n-canada.git
+[submodule "static/odoo16/oca-addons/search-engine"]
+	path = static/odoo16/oca-addons/search-engine
+	url = https://github.com/OCA/search-engine.git
+[submodule "static/odoo16/oca-addons/product-variant"]
+	path = static/odoo16/oca-addons/product-variant
+	url = https://github.com/OCA/product-variant.git
+[submodule "static/odoo16/oca-addons/stock-logistics-interfaces"]
+	path = static/odoo16/oca-addons/stock-logistics-interfaces
+	url = https://github.com/OCA/stock-logistics-interfaces.git
+[submodule "static/odoo16/oca-addons/l10n-cambodia"]
+	path = static/odoo16/oca-addons/l10n-cambodia
+	url = https://github.com/OCA/l10n-cambodia.git
+[submodule "static/odoo16/oca-addons/calendar"]
+	path = static/odoo16/oca-addons/calendar
+	url = https://github.com/OCA/calendar.git
+[submodule "static/odoo16/oca-addons/l10n-ethiopia"]
+	path = static/odoo16/oca-addons/l10n-ethiopia
+	url = https://github.com/OCA/l10n-ethiopia.git
+[submodule "static/odoo16/oca-addons/wallet"]
+	path = static/odoo16/oca-addons/wallet
+	url = https://github.com/OCA/wallet.git
+[submodule "static/odoo16/oca-addons/purchase-reporting"]
+	path = static/odoo16/oca-addons/purchase-reporting
+	url = https://github.com/OCA/purchase-reporting.git
+[submodule "static/odoo16/oca-addons/server-brand"]
+	path = static/odoo16/oca-addons/server-brand
+	url = https://github.com/OCA/server-brand.git
+[submodule "static/odoo16/oca-addons/vertical-edition"]
+	path = static/odoo16/oca-addons/vertical-edition
+	url = https://github.com/OCA/vertical-edition.git
+[submodule "static/odoo16/oca-addons/vertical-ngo"]
+	path = static/odoo16/oca-addons/vertical-ngo
+	url = https://github.com/OCA/vertical-ngo.git
+[submodule "static/odoo16/oca-addons/donation"]
+	path = static/odoo16/oca-addons/donation
+	url = https://github.com/OCA/donation.git
+[submodule "static/odoo16/oca-addons/rest-framework"]
+	path = static/odoo16/oca-addons/rest-framework
+	url = https://github.com/OCA/rest-framework.git
+[submodule "static/odoo16/oca-addons/field-service"]
+	path = static/odoo16/oca-addons/field-service
+	url = https://github.com/OCA/field-service.git
+[submodule "static/odoo16/oca-addons/server-auth"]
+	path = static/odoo16/oca-addons/server-auth
+	url = https://github.com/OCA/server-auth.git
+[submodule "static/odoo16/oca-addons/connector-lims"]
+	path = static/odoo16/oca-addons/connector-lims
+	url = https://github.com/OCA/connector-lims.git
+[submodule "static/odoo16/oca-addons/hr"]
+	path = static/odoo16/oca-addons/hr
+	url = https://github.com/OCA/hr.git
+[submodule "static/odoo16/oca-addons/l10n-macedonia"]
+	path = static/odoo16/oca-addons/l10n-macedonia
+	url = https://github.com/OCA/l10n-macedonia.git
+[submodule "static/odoo16/oca-addons/commission"]
+	path = static/odoo16/oca-addons/commission
+	url = https://github.com/OCA/commission.git
+[submodule "static/odoo16/oca-addons/l10n-colombia"]
+	path = static/odoo16/oca-addons/l10n-colombia
+	url = https://github.com/OCA/l10n-colombia.git
+[submodule "static/odoo16/oca-addons/pwa-builder"]
+	path = static/odoo16/oca-addons/pwa-builder
+	url = https://github.com/OCA/pwa-builder.git
+[submodule "static/odoo16/oca-addons/l10n-thailand"]
+	path = static/odoo16/oca-addons/l10n-thailand
+	url = https://github.com/OCA/l10n-thailand.git
+[submodule "static/odoo16/oca-addons/l10n-united-kingdom"]
+	path = static/odoo16/oca-addons/l10n-united-kingdom
+	url = https://github.com/OCA/l10n-united-kingdom.git
+[submodule "static/odoo16/oca-addons/department"]
+	path = static/odoo16/oca-addons/department
+	url = https://github.com/OCA/department.git
+[submodule "static/odoo16/oca-addons/account-financial-reporting"]
+	path = static/odoo16/oca-addons/account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting.git
+[submodule "static/odoo16/oca-addons/crm"]
+	path = static/odoo16/oca-addons/crm
+	url = https://github.com/OCA/crm.git
+[submodule "static/odoo16/oca-addons/sale-promotion"]
+	path = static/odoo16/oca-addons/sale-promotion
+	url = https://github.com/OCA/sale-promotion.git
+[submodule "static/odoo16/oca-addons/web"]
+	path = static/odoo16/oca-addons/web
+	url = https://github.com/OCA/web.git
+[submodule "static/odoo16/oca-addons/dms"]
+	path = static/odoo16/oca-addons/dms
+	url = https://github.com/OCA/dms.git
+[submodule "static/odoo16/oca-addons/iot"]
+	path = static/odoo16/oca-addons/iot
+	url = https://github.com/OCA/iot.git
+[submodule "static/odoo16/oca-addons/vertical-abbey"]
+	path = static/odoo16/oca-addons/vertical-abbey
+	url = https://github.com/OCA/vertical-abbey.git
+[submodule "static/odoo16/oca-addons/project-agile"]
+	path = static/odoo16/oca-addons/project-agile
+	url = https://github.com/OCA/project-agile.git
+[submodule "static/odoo16/oca-addons/report-print-send"]
+	path = static/odoo16/oca-addons/report-print-send
+	url = https://github.com/OCA/report-print-send.git
+[submodule "static/odoo16/oca-addons/manufacture"]
+	path = static/odoo16/oca-addons/manufacture
+	url = https://github.com/OCA/manufacture.git
+[submodule "static/odoo16/oca-addons/hr-expense"]
+	path = static/odoo16/oca-addons/hr-expense
+	url = https://github.com/OCA/hr-expense.git
+[submodule "static/odoo16/oca-addons/maintenance"]
+	path = static/odoo16/oca-addons/maintenance
+	url = https://github.com/OCA/maintenance.git
+[submodule "static/odoo16/oca-addons/agreement"]
+	path = static/odoo16/oca-addons/agreement
+	url = https://github.com/OCA/agreement.git
+[submodule "static/odoo16/oca-addons/e-commerce"]
+	path = static/odoo16/oca-addons/e-commerce
+	url = https://github.com/OCA/e-commerce.git
+[submodule "static/odoo16/oca-addons/l10n-chile"]
+	path = static/odoo16/oca-addons/l10n-chile
+	url = https://github.com/OCA/l10n-chile.git
+[submodule "static/odoo16/oca-addons/repair"]
+	path = static/odoo16/oca-addons/repair
+	url = https://github.com/OCA/repair.git
+[submodule "static/odoo16/oca-addons/l10n-ecuador"]
+	path = static/odoo16/oca-addons/l10n-ecuador
+	url = https://github.com/OCA/l10n-ecuador.git
+[submodule "static/odoo16/oca-addons/pos"]
+	path = static/odoo16/oca-addons/pos
+	url = https://github.com/OCA/pos.git
+[submodule "static/odoo16/oca-addons/l10n-slovenia"]
+	path = static/odoo16/oca-addons/l10n-slovenia
+	url = https://github.com/OCA/l10n-slovenia.git
+[submodule "static/odoo16/oca-addons/l10n-argentina"]
+	path = static/odoo16/oca-addons/l10n-argentina
+	url = https://github.com/OCA/l10n-argentina.git
+[submodule "static/odoo16/oca-addons/product-configurator"]
+	path = static/odoo16/oca-addons/product-configurator
+	url = https://github.com/OCA/product-configurator.git
+[submodule "static/odoo16/oca-addons/survey"]
+	path = static/odoo16/oca-addons/survey
+	url = https://github.com/OCA/survey.git
+[submodule "static/odoo16/oca-addons/cooperative"]
+	path = static/odoo16/oca-addons/cooperative
+	url = https://github.com/OCA/cooperative.git
+[submodule "static/odoo16/oca-addons/l10n-romania"]
+	path = static/odoo16/oca-addons/l10n-romania
+	url = https://github.com/OCA/l10n-romania.git
+[submodule "static/odoo16/oca-addons/sale-financial"]
+	path = static/odoo16/oca-addons/sale-financial
+	url = https://github.com/OCA/sale-financial.git
+[submodule "static/odoo16/oca-addons/l10n-usa"]
+	path = static/odoo16/oca-addons/l10n-usa
+	url = https://github.com/OCA/l10n-usa.git
+[submodule "static/odoo16/oca-addons/project-reporting"]
+	path = static/odoo16/oca-addons/project-reporting
+	url = https://github.com/OCA/project-reporting.git
+[submodule "static/odoo16/oca-addons/bank-statement-import"]
+	path = static/odoo16/oca-addons/bank-statement-import
+	url = https://github.com/OCA/bank-statement-import.git
+[submodule "static/odoo16/oca-addons/stock-logistics-barcode"]
+	path = static/odoo16/oca-addons/stock-logistics-barcode
+	url = https://github.com/OCA/stock-logistics-barcode.git
+[submodule "static/odoo16/oca-addons/hr-attendance"]
+	path = static/odoo16/oca-addons/hr-attendance
+	url = https://github.com/OCA/hr-attendance.git
+[submodule "static/odoo16/oca-addons/l10n-brazil"]
+	path = static/odoo16/oca-addons/l10n-brazil
+	url = https://github.com/OCA/l10n-brazil.git
+[submodule "static/odoo16/oca-addons/stock-logistics-availability"]
+	path = static/odoo16/oca-addons/stock-logistics-availability
+	url = https://github.com/OCA/stock-logistics-availability.git
+[submodule "static/odoo16/oca-addons/connector-cmis"]
+	path = static/odoo16/oca-addons/connector-cmis
+	url = https://github.com/OCA/connector-cmis.git
+[submodule "static/odoo16/oca-addons/social"]
+	path = static/odoo16/oca-addons/social
+	url = https://github.com/OCA/social.git
+[submodule "static/odoo16/oca-addons/partner-contact"]
+	path = static/odoo16/oca-addons/partner-contact
+	url = https://github.com/OCA/partner-contact.git
+[submodule "static/odoo16/oca-addons/stock-logistics-orderpoint"]
+	path = static/odoo16/oca-addons/stock-logistics-orderpoint
+	url = https://github.com/OCA/stock-logistics-orderpoint.git
+[submodule "static/odoo16/oca-addons/server-backend"]
+	path = static/odoo16/oca-addons/server-backend
+	url = https://github.com/OCA/server-backend.git
+[submodule "static/odoo16/oca-addons/brand"]
+	path = static/odoo16/oca-addons/brand
+	url = https://github.com/OCA/brand.git
+[submodule "static/odoo16/oca-addons/l10n-netherlands"]
+	path = static/odoo16/oca-addons/l10n-netherlands
+	url = https://github.com/OCA/l10n-netherlands.git
+[submodule "static/odoo16/oca-addons/shift-planning"]
+	path = static/odoo16/oca-addons/shift-planning
+	url = https://github.com/OCA/shift-planning.git
+[submodule "static/odoo16/oca-addons/sale-reporting"]
+	path = static/odoo16/oca-addons/sale-reporting
+	url = https://github.com/OCA/sale-reporting.git
+[submodule "static/odoo16/oca-addons/connector-salesforce"]
+	path = static/odoo16/oca-addons/connector-salesforce
+	url = https://github.com/OCA/connector-salesforce.git
+[submodule "static/odoo16/oca-addons/l10n-venezuela"]
+	path = static/odoo16/oca-addons/l10n-venezuela
+	url = https://github.com/OCA/l10n-venezuela.git
+[submodule "static/odoo16/oca-addons/l10n-india"]
+	path = static/odoo16/oca-addons/l10n-india
+	url = https://github.com/OCA/l10n-india.git
+[submodule "static/odoo16/oca-addons/l10n-spain"]
+	path = static/odoo16/oca-addons/l10n-spain
+	url = https://github.com/OCA/l10n-spain.git
+[submodule "static/odoo16/oca-addons/connector-spscommerce"]
+	path = static/odoo16/oca-addons/connector-spscommerce
+	url = https://github.com/OCA/connector-spscommerce.git
+[submodule "static/odoo16/oca-addons/delivery-carrier"]
+	path = static/odoo16/oca-addons/delivery-carrier
+	url = https://github.com/OCA/delivery-carrier.git
+[submodule "static/odoo16/oca-addons/stock-logistics-workflow"]
+	path = static/odoo16/oca-addons/stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow.git
+[submodule "static/odoo16/oca-addons/vertical-cooperative-supermarket"]
+	path = static/odoo16/oca-addons/vertical-cooperative-supermarket
+	url = https://github.com/OCA/vertical-cooperative-supermarket.git
+[submodule "static/odoo16/oca-addons/l10n-ireland"]
+	path = static/odoo16/oca-addons/l10n-ireland
+	url = https://github.com/OCA/l10n-ireland.git
+[submodule "static/odoo16/oca-addons/vertical-association"]
+	path = static/odoo16/oca-addons/vertical-association
+	url = https://github.com/OCA/vertical-association.git
+[submodule "static/odoo16/oca-addons/connector-interfaces"]
+	path = static/odoo16/oca-addons/connector-interfaces
+	url = https://github.com/OCA/connector-interfaces.git
+[submodule "static/odoo16/oca-addons/contract"]
+	path = static/odoo16/oca-addons/contract
+	url = https://github.com/OCA/contract.git
+[submodule "static/odoo16/oca-addons/account-reconcile"]
+	path = static/odoo16/oca-addons/account-reconcile
+	url = https://github.com/OCA/account-reconcile.git
+[submodule "static/odoo16/oca-addons/vertical-construction"]
+	path = static/odoo16/oca-addons/vertical-construction
+	url = https://github.com/OCA/vertical-construction.git
+[submodule "static/odoo16/oca-addons/interface-github"]
+	path = static/odoo16/oca-addons/interface-github
+	url = https://github.com/OCA/interface-github.git
+[submodule "static/odoo16/oca-addons/l10n-morocco"]
+	path = static/odoo16/oca-addons/l10n-morocco
+	url = https://github.com/OCA/l10n-morocco.git
+[submodule "static/odoo16/oca-addons/l10n-taiwan"]
+	path = static/odoo16/oca-addons/l10n-taiwan
+	url = https://github.com/OCA/l10n-taiwan.git
+[submodule "static/odoo16/oca-addons/account-fiscal-rule"]
+	path = static/odoo16/oca-addons/account-fiscal-rule
+	url = https://github.com/OCA/account-fiscal-rule.git
+[submodule "static/odoo16/oca-addons/l10n-iran"]
+	path = static/odoo16/oca-addons/l10n-iran
+	url = https://github.com/OCA/l10n-iran.git
+[submodule "static/odoo16/oca-addons/intrastat-extrastat"]
+	path = static/odoo16/oca-addons/intrastat-extrastat
+	url = https://github.com/OCA/intrastat-extrastat.git
+[submodule "static/odoo16/oca-addons/account-invoice-reporting"]
+	path = static/odoo16/oca-addons/account-invoice-reporting
+	url = https://github.com/OCA/account-invoice-reporting.git
+[submodule "static/odoo16/oca-addons/wms"]
+	path = static/odoo16/oca-addons/wms
+	url = https://github.com/OCA/wms.git
+[submodule "static/odoo16/oca-addons/stock-logistics-warehouse"]
+	path = static/odoo16/oca-addons/stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse.git
+[submodule "static/odoo16/oca-addons/mis-builder-contrib"]
+	path = static/odoo16/oca-addons/mis-builder-contrib
+	url = https://github.com/OCA/mis-builder-contrib.git
+[submodule "static/odoo16/oca-addons/infrastructure"]
+	path = static/odoo16/oca-addons/infrastructure
+	url = https://github.com/OCA/infrastructure.git
+[submodule "static/odoo16/oca-addons/connector-jira"]
+	path = static/odoo16/oca-addons/connector-jira
+	url = https://github.com/OCA/connector-jira.git
+[submodule "static/odoo16/oca-addons/l10n-japan"]
+	path = static/odoo16/oca-addons/l10n-japan
+	url = https://github.com/OCA/l10n-japan.git
+[submodule "static/odoo16/oca-addons/mis-builder"]
+	path = static/odoo16/oca-addons/mis-builder
+	url = https://github.com/OCA/mis-builder.git
+[submodule "static/odoo16/oca-addons/dotnet"]
+	path = static/odoo16/oca-addons/dotnet
+	url = https://github.com/OCA/dotnet.git
+[submodule "static/odoo16/oca-addons/l10n-austria"]
+	path = static/odoo16/oca-addons/l10n-austria
+	url = https://github.com/OCA/l10n-austria.git
+[submodule "static/odoo16/oca-addons/l10n-indonesia"]
+	path = static/odoo16/oca-addons/l10n-indonesia
+	url = https://github.com/OCA/l10n-indonesia.git
+[submodule "static/odoo16/oca-addons/connector-telephony"]
+	path = static/odoo16/oca-addons/connector-telephony
+	url = https://github.com/OCA/connector-telephony.git
+[submodule "static/odoo16/oca-addons/knowledge"]
+	path = static/odoo16/oca-addons/knowledge
+	url = https://github.com/OCA/knowledge.git
+[submodule "static/odoo16/oca-addons/stock-logistics-reporting"]
+	path = static/odoo16/oca-addons/stock-logistics-reporting
+	url = https://github.com/OCA/stock-logistics-reporting.git
+[submodule "static/odoo16/oca-addons/apps-store"]
+	path = static/odoo16/oca-addons/apps-store
+	url = https://github.com/OCA/apps-store.git
+[submodule "static/odoo16/oca-addons/connector-redmine"]
+	path = static/odoo16/oca-addons/connector-redmine
+	url = https://github.com/OCA/connector-redmine.git
+[submodule "static/odoo16/oca-addons/vertical-medical"]
+	path = static/odoo16/oca-addons/vertical-medical
+	url = https://github.com/OCA/vertical-medical.git
+[submodule "static/odoo16/oca-addons/project"]
+	path = static/odoo16/oca-addons/project
+	url = https://github.com/OCA/project.git
+[submodule "static/odoo16/oca-addons/purchase-workflow"]
+	path = static/odoo16/oca-addons/purchase-workflow
+	url = https://github.com/OCA/purchase-workflow.git
+[submodule "static/odoo16/oca-addons/vertical-agriculture"]
+	path = static/odoo16/oca-addons/vertical-agriculture
+	url = https://github.com/OCA/vertical-agriculture.git
+[submodule "static/odoo16/oca-addons/vertical-travel"]
+	path = static/odoo16/oca-addons/vertical-travel
+	url = https://github.com/OCA/vertical-travel.git
+[submodule "static/odoo16/oca-addons/multi-company"]
+	path = static/odoo16/oca-addons/multi-company
+	url = https://github.com/OCA/multi-company.git
+[submodule "static/odoo16/oca-addons/product-attribute"]
+	path = static/odoo16/oca-addons/product-attribute
+	url = https://github.com/OCA/product-attribute.git
+[submodule "static/odoo16/oca-addons/account-closing"]
+	path = static/odoo16/oca-addons/account-closing
+	url = https://github.com/OCA/account-closing.git
+[submodule "static/odoo16/oca-addons/website"]
+	path = static/odoo16/oca-addons/website
+	url = https://github.com/OCA/website.git
+[submodule "static/odoo16/oca-addons/connector-ecommerce"]
+	path = static/odoo16/oca-addons/connector-ecommerce
+	url = https://github.com/OCA/connector-ecommerce.git
+[submodule "static/odoo16/oca-addons/server-env"]
+	path = static/odoo16/oca-addons/server-env
+	url = https://github.com/OCA/server-env.git
+[submodule "static/odoo16/oca-addons/website-cms"]
+	path = static/odoo16/oca-addons/website-cms
+	url = https://github.com/OCA/website-cms.git
+[submodule "static/odoo16/oca-addons/l10n-poland"]
+	path = static/odoo16/oca-addons/l10n-poland
+	url = https://github.com/OCA/l10n-poland.git
+[submodule "static/odoo16/oca-addons/product-pack"]
+	path = static/odoo16/oca-addons/product-pack
+	url = https://github.com/OCA/product-pack.git
+[submodule "static/odoo16/oca-addons/role-policy"]
+	path = static/odoo16/oca-addons/role-policy
+	url = https://github.com/OCA/role-policy.git
+[submodule "static/odoo16/oca-addons/bank-payment"]
+	path = static/odoo16/oca-addons/bank-payment
+	url = https://github.com/OCA/bank-payment.git
+[submodule "static/odoo16/oca-addons/l10n-norway"]
+	path = static/odoo16/oca-addons/l10n-norway
+	url = https://github.com/OCA/l10n-norway.git
+[submodule "static/odoo16/oca-addons/helpdesk"]
+	path = static/odoo16/oca-addons/helpdesk
+	url = https://github.com/OCA/helpdesk.git
+[submodule "static/odoo16/oca-addons/connector-woocommerce"]
+	path = static/odoo16/oca-addons/connector-woocommerce
+	url = https://github.com/OCA/connector-woocommerce.git
+[submodule "static/odoo16/oca-addons/community-data-files"]
+	path = static/odoo16/oca-addons/community-data-files
+	url = https://github.com/OCA/community-data-files.git
+[submodule "static/odoo16/oca-addons/connector-infor"]
+	path = static/odoo16/oca-addons/connector-infor
+	url = https://github.com/OCA/connector-infor.git
+[submodule "static/odoo16/oca-addons/stock-logistics-tracking"]
+	path = static/odoo16/oca-addons/stock-logistics-tracking
+	url = https://github.com/OCA/stock-logistics-tracking.git
+[submodule "static/odoo16/oca-addons/l10n-finland"]
+	path = static/odoo16/oca-addons/l10n-finland
+	url = https://github.com/OCA/l10n-finland.git
+[submodule "static/odoo16/oca-addons/webhook"]
+	path = static/odoo16/oca-addons/webhook
+	url = https://github.com/OCA/webhook.git
+[submodule "static/odoo16/oca-addons/l10n-greece"]
+	path = static/odoo16/oca-addons/l10n-greece
+	url = https://github.com/OCA/l10n-greece.git
+[submodule "static/odoo16/oca-addons/l10n-switzerland"]
+	path = static/odoo16/oca-addons/l10n-switzerland
+	url = https://github.com/OCA/l10n-switzerland.git
+[submodule "static/odoo16/oca-addons/operating-unit"]
+	path = static/odoo16/oca-addons/operating-unit
+	url = https://github.com/OCA/operating-unit.git
+[submodule "static/odoo16/oca-addons/website-themes"]
+	path = static/odoo16/oca-addons/website-themes
+	url = https://github.com/OCA/website-themes.git
+[submodule "static/odoo16/oca-addons/server-tools"]
+	path = static/odoo16/oca-addons/server-tools
+	url = https://github.com/OCA/server-tools.git
+[submodule "static/odoo16/oca-addons/vertical-community"]
+	path = static/odoo16/oca-addons/vertical-community
+	url = https://github.com/OCA/vertical-community.git
+[submodule "static/odoo16/oca-addons/vertical-education"]
+	path = static/odoo16/oca-addons/vertical-education
+	url = https://github.com/OCA/vertical-education.git
+[submodule "static/odoo16/oca-addons/product-kitting"]
+	path = static/odoo16/oca-addons/product-kitting
+	url = https://github.com/OCA/product-kitting.git
+[submodule "static/odoo16/oca-addons/account-consolidation"]
+	path = static/odoo16/oca-addons/account-consolidation
+	url = https://github.com/OCA/account-consolidation.git
+[submodule "static/odoo16/oca-addons/l10n-italy"]
+	path = static/odoo16/oca-addons/l10n-italy
+	url = https://github.com/OCA/l10n-italy.git
+[submodule "static/odoo16/oca-addons/l10n-turkey"]
+	path = static/odoo16/oca-addons/l10n-turkey
+	url = https://github.com/OCA/l10n-turkey.git
+[submodule "static/odoo16/oca-addons/vertical-rental"]
+	path = static/odoo16/oca-addons/vertical-rental
+	url = https://github.com/OCA/vertical-rental.git
+[submodule "static/odoo16/oca-addons/l10n-china"]
+	path = static/odoo16/oca-addons/l10n-china
+	url = https://github.com/OCA/l10n-china.git
+[submodule "static/odoo16/oca-addons/l10n-germany"]
+	path = static/odoo16/oca-addons/l10n-germany
+	url = https://github.com/OCA/l10n-germany.git
+[submodule "static/odoo16/oca-addons/server-ux"]
+	path = static/odoo16/oca-addons/server-ux
+	url = https://github.com/OCA/server-ux.git
+[submodule "static/odoo16/oca-addons/credit-control"]
+	path = static/odoo16/oca-addons/credit-control
+	url = https://github.com/OCA/credit-control.git
+[submodule "static/odoo16/oca-addons/geospatial"]
+	path = static/odoo16/oca-addons/geospatial
+	url = https://github.com/OCA/geospatial.git
+[submodule "static/odoo16/oca-addons/manufacture-reporting"]
+	path = static/odoo16/oca-addons/manufacture-reporting
+	url = https://github.com/OCA/manufacture-reporting.git
+[submodule "static/odoo16/oca-addons/runbot-addons"]
+	path = static/odoo16/oca-addons/runbot-addons
+	url = https://github.com/OCA/runbot-addons.git
+[submodule "static/odoo16/oca-addons/l10n-ukraine"]
+	path = static/odoo16/oca-addons/l10n-ukraine
+	url = https://github.com/OCA/l10n-ukraine.git
+[submodule "static/odoo16/oca-addons/l10n-russia"]
+	path = static/odoo16/oca-addons/l10n-russia
+	url = https://github.com/OCA/l10n-russia.git
+[submodule "static/odoo16/oca-addons/l10n-estonia"]
+	path = static/odoo16/oca-addons/l10n-estonia
+	url = https://github.com/OCA/l10n-estonia.git
+[submodule "static/odoo16/oca-addons/l10n-croatia"]
+	path = static/odoo16/oca-addons/l10n-croatia
+	url = https://github.com/OCA/l10n-croatia.git
+[submodule "static/odoo16/oca-addons/l10n-belgium"]
+	path = static/odoo16/oca-addons/l10n-belgium
+	url = https://github.com/OCA/l10n-belgium.git
+[submodule "static/odoo16/oca-addons/l10n-peru"]
+	path = static/odoo16/oca-addons/l10n-peru
+	url = https://github.com/OCA/l10n-peru.git
+[submodule "static/odoo16/oca-addons/odoo-pim"]
+	path = static/odoo16/oca-addons/odoo-pim
+	url = https://github.com/OCA/odoo-pim.git
+[submodule "static/odoo16/oca-addons/currency"]
+	path = static/odoo16/oca-addons/currency
+	url = https://github.com/OCA/currency.git
+[submodule "static/odoo16/oca-addons/account-budgeting"]
+	path = static/odoo16/oca-addons/account-budgeting
+	url = https://github.com/OCA/account-budgeting.git
+[submodule "static/odoo16/oca-addons/account-financial-tools"]
+	path = static/odoo16/oca-addons/account-financial-tools
+	url = https://github.com/OCA/account-financial-tools.git
+[submodule "static/odoo16/oca-addons/program"]
+	path = static/odoo16/oca-addons/program
+	url = https://github.com/OCA/program.git
+[submodule "static/odoo16/oca-addons/rest-api"]
+	path = static/odoo16/oca-addons/rest-api
+	url = https://github.com/OCA/rest-api.git
+[submodule "static/odoo16/oca-addons/timesheet"]
+	path = static/odoo16/oca-addons/timesheet
+	url = https://github.com/OCA/timesheet.git
+[submodule "static/odoo16/oca-addons/connector-sage"]
+	path = static/odoo16/oca-addons/connector-sage
+	url = https://github.com/OCA/connector-sage.git
+[submodule "static/odoo16/oca-addons/connector-magento"]
+	path = static/odoo16/oca-addons/connector-magento
+	url = https://github.com/OCA/connector-magento.git
+[submodule "static/odoo16/oca-addons/queue"]
+	path = static/odoo16/oca-addons/queue
+	url = https://github.com/OCA/queue.git
+[submodule "static/odoo16/oca-addons/business-requirement"]
+	path = static/odoo16/oca-addons/business-requirement
+	url = https://github.com/OCA/business-requirement.git
+[submodule "static/odoo16/oca-addons/connector"]
+	path = static/odoo16/oca-addons/connector
+	url = https://github.com/OCA/connector.git
+[submodule "static/odoo13/enterprise"]
+	path = static/odoo13/enterprise
+	url = https://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@github.com/odoo/enterprise.git
+[submodule "static/odoo13/oca-addons/management-system"]
+	path = static/odoo13/oca-addons/management-system
+	url = https://github.com/OCA/management-system.git
+[submodule "static/odoo13/oca-addons/vertical-isp"]
+	path = static/odoo13/oca-addons/vertical-isp
+	url = https://github.com/OCA/vertical-isp.git
+[submodule "static/odoo13/oca-addons/vertical-hotel"]
+	path = static/odoo13/oca-addons/vertical-hotel
+	url = https://github.com/OCA/vertical-hotel.git
+[submodule "static/odoo13/oca-addons/ddmrp"]
+	path = static/odoo13/oca-addons/ddmrp
+	url = https://github.com/OCA/ddmrp.git
+[submodule "static/odoo13/oca-addons/margin-analysis"]
+	path = static/odoo13/oca-addons/margin-analysis
+	url = https://github.com/OCA/margin-analysis.git
+[submodule "static/odoo13/oca-addons/account-invoicing"]
+	path = static/odoo13/oca-addons/account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+[submodule "static/odoo13/oca-addons/rma"]
+	path = static/odoo13/oca-addons/rma
+	url = https://github.com/OCA/rma.git
+[submodule "static/odoo13/oca-addons/account-payment"]
+	path = static/odoo13/oca-addons/account-payment
+	url = https://github.com/OCA/account-payment.git
+[submodule "static/odoo13/oca-addons/storage"]
+	path = static/odoo13/oca-addons/storage
+	url = https://github.com/OCA/storage.git
+[submodule "static/odoo13/oca-addons/vertical-realestate"]
+	path = static/odoo13/oca-addons/vertical-realestate
+	url = https://github.com/OCA/vertical-realestate.git
+[submodule "static/odoo13/oca-addons/stock-logistics-transport"]
+	path = static/odoo13/oca-addons/stock-logistics-transport
+	url = https://github.com/OCA/stock-logistics-transport.git
+[submodule "static/odoo13/oca-addons/payroll"]
+	path = static/odoo13/oca-addons/payroll
+	url = https://github.com/OCA/payroll.git
+[submodule "static/odoo13/oca-addons/event"]
+	path = static/odoo13/oca-addons/event
+	url = https://github.com/OCA/event.git
+[submodule "static/odoo13/oca-addons/hr-holidays"]
+	path = static/odoo13/oca-addons/hr-holidays
+	url = https://github.com/OCA/hr-holidays.git
+[submodule "static/odoo13/oca-addons/sale-workflow"]
+	path = static/odoo13/oca-addons/sale-workflow
+	url = https://github.com/OCA/sale-workflow.git
+[submodule "static/odoo13/oca-addons/fleet"]
+	path = static/odoo13/oca-addons/fleet
+	url = https://github.com/OCA/fleet.git
+[submodule "static/odoo13/oca-addons/data-protection"]
+	path = static/odoo13/oca-addons/data-protection
+	url = https://github.com/OCA/data-protection.git
+[submodule "static/odoo13/oca-addons/reporting-engine"]
+	path = static/odoo13/oca-addons/reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+[submodule "static/odoo13/oca-addons/account-analytic"]
+	path = static/odoo13/oca-addons/account-analytic
+	url = https://github.com/OCA/account-analytic.git
+[submodule "static/odoo13/oca-addons/search-engine"]
+	path = static/odoo13/oca-addons/search-engine
+	url = https://github.com/OCA/search-engine.git
+[submodule "static/odoo13/oca-addons/product-variant"]
+	path = static/odoo13/oca-addons/product-variant
+	url = https://github.com/OCA/product-variant.git
+[submodule "static/odoo13/oca-addons/calendar"]
+	path = static/odoo13/oca-addons/calendar
+	url = https://github.com/OCA/calendar.git
+[submodule "static/odoo13/oca-addons/purchase-reporting"]
+	path = static/odoo13/oca-addons/purchase-reporting
+	url = https://github.com/OCA/purchase-reporting.git
+[submodule "static/odoo13/oca-addons/server-brand"]
+	path = static/odoo13/oca-addons/server-brand
+	url = https://github.com/OCA/server-brand.git
+[submodule "static/odoo13/oca-addons/vertical-edition"]
+	path = static/odoo13/oca-addons/vertical-edition
+	url = https://github.com/OCA/vertical-edition.git
+[submodule "static/odoo13/oca-addons/vertical-ngo"]
+	path = static/odoo13/oca-addons/vertical-ngo
+	url = https://github.com/OCA/vertical-ngo.git
+[submodule "static/odoo13/oca-addons/donation"]
+	path = static/odoo13/oca-addons/donation
+	url = https://github.com/OCA/donation.git
+[submodule "static/odoo13/oca-addons/field-service"]
+	path = static/odoo13/oca-addons/field-service
+	url = https://github.com/OCA/field-service.git
+[submodule "static/odoo13/oca-addons/server-auth"]
+	path = static/odoo13/oca-addons/server-auth
+	url = https://github.com/OCA/server-auth.git
+[submodule "static/odoo13/oca-addons/hr"]
+	path = static/odoo13/oca-addons/hr
+	url = https://github.com/OCA/hr.git
+[submodule "static/odoo13/oca-addons/commission"]
+	path = static/odoo13/oca-addons/commission
+	url = https://github.com/OCA/commission.git
+[submodule "static/odoo13/oca-addons/account-financial-reporting"]
+	path = static/odoo13/oca-addons/account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting.git
+[submodule "static/odoo13/oca-addons/crm"]
+	path = static/odoo13/oca-addons/crm
+	url = https://github.com/OCA/crm.git
+[submodule "static/odoo13/oca-addons/sale-promotion"]
+	path = static/odoo13/oca-addons/sale-promotion
+	url = https://github.com/OCA/sale-promotion.git
+[submodule "static/odoo13/oca-addons/web"]
+	path = static/odoo13/oca-addons/web
+	url = https://github.com/OCA/web.git
+[submodule "static/odoo13/oca-addons/dms"]
+	path = static/odoo13/oca-addons/dms
+	url = https://github.com/OCA/dms.git
+[submodule "static/odoo13/oca-addons/iot"]
+	path = static/odoo13/oca-addons/iot
+	url = https://github.com/OCA/iot.git
+[submodule "static/odoo13/oca-addons/vertical-abbey"]
+	path = static/odoo13/oca-addons/vertical-abbey
+	url = https://github.com/OCA/vertical-abbey.git
+[submodule "static/odoo13/oca-addons/project-agile"]
+	path = static/odoo13/oca-addons/project-agile
+	url = https://github.com/OCA/project-agile.git
+[submodule "static/odoo13/oca-addons/report-print-send"]
+	path = static/odoo13/oca-addons/report-print-send
+	url = https://github.com/OCA/report-print-send.git
+[submodule "static/odoo13/oca-addons/manufacture"]
+	path = static/odoo13/oca-addons/manufacture
+	url = https://github.com/OCA/manufacture.git
+[submodule "static/odoo13/oca-addons/hr-expense"]
+	path = static/odoo13/oca-addons/hr-expense
+	url = https://github.com/OCA/hr-expense.git
+[submodule "static/odoo13/oca-addons/maintenance"]
+	path = static/odoo13/oca-addons/maintenance
+	url = https://github.com/OCA/maintenance.git
+[submodule "static/odoo13/oca-addons/e-commerce"]
+	path = static/odoo13/oca-addons/e-commerce
+	url = https://github.com/OCA/e-commerce.git
+[submodule "static/odoo13/oca-addons/pos"]
+	path = static/odoo13/oca-addons/pos
+	url = https://github.com/OCA/pos.git
+[submodule "static/odoo13/oca-addons/survey"]
+	path = static/odoo13/oca-addons/survey
+	url = https://github.com/OCA/survey.git
+[submodule "static/odoo13/oca-addons/sale-financial"]
+	path = static/odoo13/oca-addons/sale-financial
+	url = https://github.com/OCA/sale-financial.git
+[submodule "static/odoo13/oca-addons/project-reporting"]
+	path = static/odoo13/oca-addons/project-reporting
+	url = https://github.com/OCA/project-reporting.git
+[submodule "static/odoo13/oca-addons/bank-statement-import"]
+	path = static/odoo13/oca-addons/bank-statement-import
+	url = https://github.com/OCA/bank-statement-import.git
+[submodule "static/odoo13/oca-addons/stock-logistics-barcode"]
+	path = static/odoo13/oca-addons/stock-logistics-barcode
+	url = https://github.com/OCA/stock-logistics-barcode.git
+[submodule "static/odoo13/oca-addons/hr-attendance"]
+	path = static/odoo13/oca-addons/hr-attendance
+	url = https://github.com/OCA/hr-attendance.git
+[submodule "static/odoo13/oca-addons/social"]
+	path = static/odoo13/oca-addons/social
+	url = https://github.com/OCA/social.git
+[submodule "static/odoo13/oca-addons/partner-contact"]
+	path = static/odoo13/oca-addons/partner-contact
+	url = https://github.com/OCA/partner-contact.git
+[submodule "static/odoo13/oca-addons/server-backend"]
+	path = static/odoo13/oca-addons/server-backend
+	url = https://github.com/OCA/server-backend.git
+[submodule "static/odoo13/oca-addons/brand"]
+	path = static/odoo13/oca-addons/brand
+	url = https://github.com/OCA/brand.git
+[submodule "static/odoo13/oca-addons/sale-reporting"]
+	path = static/odoo13/oca-addons/sale-reporting
+	url = https://github.com/OCA/sale-reporting.git
+[submodule "static/odoo13/oca-addons/delivery-carrier"]
+	path = static/odoo13/oca-addons/delivery-carrier
+	url = https://github.com/OCA/delivery-carrier.git
+[submodule "static/odoo13/oca-addons/stock-logistics-workflow"]
+	path = static/odoo13/oca-addons/stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow.git
+[submodule "static/odoo13/oca-addons/vertical-association"]
+	path = static/odoo13/oca-addons/vertical-association
+	url = https://github.com/OCA/vertical-association.git
+[submodule "static/odoo13/oca-addons/contract"]
+	path = static/odoo13/oca-addons/contract
+	url = https://github.com/OCA/contract.git
+[submodule "static/odoo13/oca-addons/account-reconcile"]
+	path = static/odoo13/oca-addons/account-reconcile
+	url = https://github.com/OCA/account-reconcile.git
+[submodule "static/odoo13/oca-addons/vertical-construction"]
+	path = static/odoo13/oca-addons/vertical-construction
+	url = https://github.com/OCA/vertical-construction.git
+[submodule "static/odoo13/oca-addons/account-fiscal-rule"]
+	path = static/odoo13/oca-addons/account-fiscal-rule
+	url = https://github.com/OCA/account-fiscal-rule.git
+[submodule "static/odoo13/oca-addons/intrastat-extrastat"]
+	path = static/odoo13/oca-addons/intrastat-extrastat
+	url = https://github.com/OCA/intrastat-extrastat.git
+[submodule "static/odoo13/oca-addons/account-invoice-reporting"]
+	path = static/odoo13/oca-addons/account-invoice-reporting
+	url = https://github.com/OCA/account-invoice-reporting.git
+[submodule "static/odoo13/oca-addons/wms"]
+	path = static/odoo13/oca-addons/wms
+	url = https://github.com/OCA/wms.git
+[submodule "static/odoo13/oca-addons/stock-logistics-warehouse"]
+	path = static/odoo13/oca-addons/stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse.git
+[submodule "static/odoo13/oca-addons/mis-builder-contrib"]
+	path = static/odoo13/oca-addons/mis-builder-contrib
+	url = https://github.com/OCA/mis-builder-contrib.git
+[submodule "static/odoo13/oca-addons/mis-builder"]
+	path = static/odoo13/oca-addons/mis-builder
+	url = https://github.com/OCA/mis-builder.git
+[submodule "static/odoo13/oca-addons/knowledge"]
+	path = static/odoo13/oca-addons/knowledge
+	url = https://github.com/OCA/knowledge.git
+[submodule "static/odoo13/oca-addons/stock-logistics-reporting"]
+	path = static/odoo13/oca-addons/stock-logistics-reporting
+	url = https://github.com/OCA/stock-logistics-reporting.git
+[submodule "static/odoo13/oca-addons/project"]
+	path = static/odoo13/oca-addons/project
+	url = https://github.com/OCA/project.git
+[submodule "static/odoo13/oca-addons/purchase-workflow"]
+	path = static/odoo13/oca-addons/purchase-workflow
+	url = https://github.com/OCA/purchase-workflow.git
+[submodule "static/odoo13/oca-addons/vertical-agriculture"]
+	path = static/odoo13/oca-addons/vertical-agriculture
+	url = https://github.com/OCA/vertical-agriculture.git
+[submodule "static/odoo13/oca-addons/vertical-travel"]
+	path = static/odoo13/oca-addons/vertical-travel
+	url = https://github.com/OCA/vertical-travel.git
+[submodule "static/odoo13/oca-addons/multi-company"]
+	path = static/odoo13/oca-addons/multi-company
+	url = https://github.com/OCA/multi-company.git
+[submodule "static/odoo13/oca-addons/product-attribute"]
+	path = static/odoo13/oca-addons/product-attribute
+	url = https://github.com/OCA/product-attribute.git
+[submodule "static/odoo13/oca-addons/account-closing"]
+	path = static/odoo13/oca-addons/account-closing
+	url = https://github.com/OCA/account-closing.git
+[submodule "static/odoo13/oca-addons/website"]
+	path = static/odoo13/oca-addons/website
+	url = https://github.com/OCA/website.git
+[submodule "static/odoo13/oca-addons/server-env"]
+	path = static/odoo13/oca-addons/server-env
+	url = https://github.com/OCA/server-env.git
+[submodule "static/odoo13/oca-addons/website-cms"]
+	path = static/odoo13/oca-addons/website-cms
+	url = https://github.com/OCA/website-cms.git
+[submodule "static/odoo13/oca-addons/product-pack"]
+	path = static/odoo13/oca-addons/product-pack
+	url = https://github.com/OCA/product-pack.git
+[submodule "static/odoo13/oca-addons/bank-payment"]
+	path = static/odoo13/oca-addons/bank-payment
+	url = https://github.com/OCA/bank-payment.git
+[submodule "static/odoo13/oca-addons/helpdesk"]
+	path = static/odoo13/oca-addons/helpdesk
+	url = https://github.com/OCA/helpdesk.git
+[submodule "static/odoo13/oca-addons/connector-woocommerce"]
+	path = static/odoo13/oca-addons/connector-woocommerce
+	url = https://github.com/OCA/connector-woocommerce.git
+[submodule "static/odoo13/oca-addons/stock-logistics-tracking"]
+	path = static/odoo13/oca-addons/stock-logistics-tracking
+	url = https://github.com/OCA/stock-logistics-tracking.git
+[submodule "static/odoo13/oca-addons/operating-unit"]
+	path = static/odoo13/oca-addons/operating-unit
+	url = https://github.com/OCA/operating-unit.git
+[submodule "static/odoo13/oca-addons/website-themes"]
+	path = static/odoo13/oca-addons/website-themes
+	url = https://github.com/OCA/website-themes.git
+[submodule "static/odoo13/oca-addons/server-tools"]
+	path = static/odoo13/oca-addons/server-tools
+	url = https://github.com/OCA/server-tools.git
+[submodule "static/odoo13/oca-addons/vertical-community"]
+	path = static/odoo13/oca-addons/vertical-community
+	url = https://github.com/OCA/vertical-community.git
+[submodule "static/odoo13/oca-addons/vertical-education"]
+	path = static/odoo13/oca-addons/vertical-education
+	url = https://github.com/OCA/vertical-education.git
+[submodule "static/odoo13/oca-addons/product-kitting"]
+	path = static/odoo13/oca-addons/product-kitting
+	url = https://github.com/OCA/product-kitting.git
+[submodule "static/odoo13/oca-addons/account-consolidation"]
+	path = static/odoo13/oca-addons/account-consolidation
+	url = https://github.com/OCA/account-consolidation.git
+[submodule "static/odoo13/oca-addons/l10n-germany"]
+	path = static/odoo13/oca-addons/l10n-germany
+	url = https://github.com/OCA/l10n-germany.git
+[submodule "static/odoo13/oca-addons/server-ux"]
+	path = static/odoo13/oca-addons/server-ux
+	url = https://github.com/OCA/server-ux.git
+[submodule "static/odoo13/oca-addons/credit-control"]
+	path = static/odoo13/oca-addons/credit-control
+	url = https://github.com/OCA/credit-control.git
+[submodule "static/odoo13/oca-addons/geospatial"]
+	path = static/odoo13/oca-addons/geospatial
+	url = https://github.com/OCA/geospatial.git
+[submodule "static/odoo13/oca-addons/manufacture-reporting"]
+	path = static/odoo13/oca-addons/manufacture-reporting
+	url = https://github.com/OCA/manufacture-reporting.git
+[submodule "static/odoo13/oca-addons/odoo-pim"]
+	path = static/odoo13/oca-addons/odoo-pim
+	url = https://github.com/OCA/odoo-pim.git
+[submodule "static/odoo13/oca-addons/currency"]
+	path = static/odoo13/oca-addons/currency
+	url = https://github.com/OCA/currency.git
+[submodule "static/odoo13/oca-addons/account-budgeting"]
+	path = static/odoo13/oca-addons/account-budgeting
+	url = https://github.com/OCA/account-budgeting.git
+[submodule "static/odoo13/oca-addons/account-financial-tools"]
+	path = static/odoo13/oca-addons/account-financial-tools
+	url = https://github.com/OCA/account-financial-tools.git
+[submodule "static/odoo13/oca-addons/timesheet"]
+	path = static/odoo13/oca-addons/timesheet
+	url = https://github.com/OCA/timesheet.git
+[submodule "static/odoo13/oca-addons/business-requirement"]
+	path = static/odoo13/oca-addons/business-requirement
+	url = https://github.com/OCA/business-requirement.git
+[submodule "static/odoo16/enterprise"]
+	path = static/odoo16/enterprise
+	url = https://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@github.com/odoo/enterprise.git
