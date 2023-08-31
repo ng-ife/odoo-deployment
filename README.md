@@ -53,9 +53,12 @@ Simply go to your deployment folder (in my case docker) and create an new instan
 ```
 ➜  cd docker
 ➜  ./deploy create odoo16ee test
-````
+```
 
-If everything went well, you can now go back to your Browser and enjoy http://test.
+If everything went well, you can now go back to your Browser and enjoy http://test.odoo
+
+For the hostname to be pointing to localhost you could either put the name of the deployment into your local dns or manipulate the /mnt/c/Windows/System32/drivers/etc/hosts (/etc/hosts on linux). You need admin rights for that. Just open notepad with rightclick from the start menu to do so.
+
 
 Explanation
 -----------
