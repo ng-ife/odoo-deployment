@@ -1249,3 +1249,6 @@
 [submodule "static/odoo16/enterprise"]
 	path = static/odoo16/enterprise
 	url = https://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@github.com/odoo/enterprise.git
+[submodule "static/odoo15/3rd-party"]
+	path = static/odoo15/3rd-party
+	url = git@github.com:ife-gmbh/3rd-party.git

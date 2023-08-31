@@ -1,0 +1,43 @@
+version: '3.8'
+services:
+ odoo:
+   image: odoo:15
+   depends_on:
+     - db
+   volumes:
+     - ../../static/odoo15/enterprise:/mnt/enterprise-addons
+     - ./extra-addons:/mnt/extra-addons
+     - ../../static/odoo15/oca-addons:/mnt/oca-addons
+       #     - ../../static/odoo15/3rd-party:/mnt/3rd-party
+     - ./config:/etc/odoo
+     - odoo-data:/var/lib/odoo
+   networks:
+     - default
+     - nginx
+
+ db:
+   image: postgres:bullseye
+   restart: always
+   environment:
+     POSTGRES_PASSWORD: admin
+   volumes:
+     - db-data:/var/lib/postgresql/data
+     - ./db-init/init-user-db.sh:/docker-entrypoint-initdb.d/1-user.sh
+     - ./database_backup:/mnt/database_backup
+
+ mailhog:
+   image: mailhog/mailhog
+   networks:
+     - default
+     - nginx
+
+volumes:
+ db-data:
+ odoo-data:
+
+networks:
+  default:
+  nginx:
+    name: nginx-net
+    external: true
+
