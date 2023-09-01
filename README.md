@@ -3,6 +3,12 @@ Odoo development deployment
 
 This Repo contains a helperscript `deploy` to setup a new local odoo instance easily. This is only testet on windows with _wsl_ but should work on plain linux too. Of course requirements differ then.
 
+Default values
+--------------
+
+* Odoo Master Password: _odoo_
+* DB User: _odoo_ Password: _odoo_
+
 Requirements
 ------------
 
