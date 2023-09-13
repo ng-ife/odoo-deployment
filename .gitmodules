@@ -1,6 +1,6 @@
 [submodule "static/odoo15/enterprise"]
 	path = static/odoo15/enterprise
-	url = https://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@github.com/odoo/enterprise.git
+	url = https://github.com/odoo/enterprise.git
 [submodule "static/odoo15/oca-addons/management-system"]
 	path = static/odoo15/oca-addons/management-system
 	url = https://github.com/OCA/management-system.git
@@ -933,7 +933,7 @@
 	url = https://github.com/OCA/connector.git
 [submodule "static/odoo13/enterprise"]
 	path = static/odoo13/enterprise
-	url = https://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@github.com/odoo/enterprise.git
+	url = https://github.com/odoo/enterprise.git
 [submodule "static/odoo13/oca-addons/management-system"]
 	path = static/odoo13/oca-addons/management-system
 	url = https://github.com/OCA/management-system.git
@@ -1248,7 +1248,7 @@
 	url = https://github.com/OCA/business-requirement.git
 [submodule "static/odoo16/enterprise"]
 	path = static/odoo16/enterprise
-	url = https://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@github.com/odoo/enterprise.git
+	url = https://github.com/odoo/enterprise.git
 [submodule "static/odoo15/3rd-party"]
 	path = static/odoo15/3rd-party
 	url = git@github.com:ife-gmbh/3rd-party.git
