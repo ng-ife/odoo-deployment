@@ -42,6 +42,10 @@ server {
     access_log /var/log/nginx/odoo.access.log;
     error_log /var/log/nginx/odoo.error.log;
 
+    # set client body size to 500 MB
+    # increase hear if you want to upload bigger database dumps
+    client_max_body_size 500M;
+
     # Redirect requests to odoo backend server
     location / {
       # Add Headers for odoo proxy mode
